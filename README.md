@@ -14,8 +14,7 @@ faltantes.
 - `resultados/`: archivos producidos por `leer_datos.py`.
 
 ## Procedencia de los datos
-(Describa como se obtuvieron: instrumento, lugar, periodo, procesamiento
-previo. Si son sinteticos, digalo explicitamente.)
+Estos datos son simulados y son las mediciones de temperatura y humedad de un sensor durante 30 días.
 
 ## Como ejecutar
 Requisitos: Python 3.9 o superior.
