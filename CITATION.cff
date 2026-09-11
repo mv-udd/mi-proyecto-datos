@@ -6,7 +6,8 @@ authors:
     given-names: "Matias"
     orcid: "https://orcid.org/0009-0004-7540-2810"
     affiliation: "Universidad de Desarrollo, Doctorado en Ingenieria Aplicada"
-version: 1.0.0-prueba
+version: 1.0.0
+doi: “10.5281/zenodo.22708134”
 date-released: "2026-09-11"
 license: MIT
 repository-code: "https://github.com/mv-udd/mi-proyecto-datos"

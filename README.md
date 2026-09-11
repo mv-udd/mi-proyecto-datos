@@ -1,4 +1,5 @@
 # Mediciones horarias de temperatura y humedad de un sensor ambiental
+[![DOI](https://zenodo.org/badge/1362655649.svg)](https://doi.org/10.5281/zenodo.22708133)
 
 Conjunto de datos de ejemplo y programa minimo de lectura, preparados
 como actividad del curso Topicos Avanzados del Analisis de Datos
@@ -32,8 +33,8 @@ Internacional (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/
 ## Como citar
 Vergara, M. (2026). Mediciones horarias de temperatura y humedad de un
 sensor ambiental (datos de ejemplo) (Version 1.0.0) [Conjunto de datos].
-Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Zenodo. https://doi.org/10.5281/zenodo.22708134
 (El DOI se completara despues de publicar en Zenodo.)
 
 ## Contacto
-Matias Vergara, correo@universidad.cl, ORCID: https://orcid.org/0000-0002-1234-5678
+Matias Vergara, m.vergaraal@udd.cl, ORCID: https://orcid.org/0000-0002-1234-5678
